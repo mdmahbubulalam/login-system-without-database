@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/login-system-without-database/static/css/main.509fd051.chunk.css",
+    "main.js": "/login-system-without-database/static/js/main.9460e4d6.chunk.js",
+    "main.js.map": "/login-system-without-database/static/js/main.9460e4d6.chunk.js.map",
+    "runtime-main.js": "/login-system-without-database/static/js/runtime-main.55b11563.js",
+    "runtime-main.js.map": "/login-system-without-database/static/js/runtime-main.55b11563.js.map",
+    "static/js/2.a270b2ef.chunk.js": "/login-system-without-database/static/js/2.a270b2ef.chunk.js",
+    "static/js/2.a270b2ef.chunk.js.map": "/login-system-without-database/static/js/2.a270b2ef.chunk.js.map",
+    "static/js/3.a7d14ceb.chunk.js": "/login-system-without-database/static/js/3.a7d14ceb.chunk.js",
+    "static/js/3.a7d14ceb.chunk.js.map": "/login-system-without-database/static/js/3.a7d14ceb.chunk.js.map",
+    "index.html": "/login-system-without-database/index.html",
+    "static/css/main.509fd051.chunk.css.map": "/login-system-without-database/static/css/main.509fd051.chunk.css.map",
+    "static/js/2.a270b2ef.chunk.js.LICENSE.txt": "/login-system-without-database/static/js/2.a270b2ef.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/login-system-without-database/static/media/bg.9b7fe5fa.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.55b11563.js",
+    "static/js/2.a270b2ef.chunk.js",
+    "static/css/main.509fd051.chunk.css",
+    "static/js/main.9460e4d6.chunk.js"
+  ]
+}
