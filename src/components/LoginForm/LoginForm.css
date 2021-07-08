@@ -1,0 +1,36 @@
+.form-container{
+    background-image: linear-gradient(to bottom right, rgb(0, 102, 255), rgba(162, 0, 255, 0.164));
+    padding:30px;
+    border-radius: 10px;
+    box-shadow:0 0 10px black;
+    width: 55vh;
+  }
+
+  .form-div{
+    height:100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+
+  .submit-button{
+      background-color: rgb(215, 243, 250);
+      width: 100px;
+      padding:10px;
+      border: 1px solid gray;
+      border-radius: 5px;
+      font-size: 20px;
+      font-weight: bold;
+      color: rgb(0, 89, 255);
+      transition: 0.4s;
+  }
+
+  .submit-button:hover{
+      color: rgb(215, 243, 250);
+      background-color: rgb(0, 89, 255);
+
+  }
+
+  .input-background{
+      background-color: rgb(215, 243, 250);
+  }

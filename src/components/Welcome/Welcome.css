@@ -1,0 +1,36 @@
+.userNameText{
+    color: goldenrod;
+}
+
+.welcome{
+    height:100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+}
+
+.welcome-div{
+    background-image: linear-gradient(to bottom right,rgba(162, 0, 255, 0.164), rgb(0, 102, 255), rgba(162, 0, 255, 0.164));
+    padding: 30px;
+    border-radius: 10px;
+    box-shadow:0 0 10px black;
+}
+
+.logout-button{
+    background-color: goldenrod;
+    width: 100px;
+    padding:7px;
+    border: 1px solid gray;
+    border-radius: 5px;
+    font-size: 20px;
+    font-weight: 500px;
+    color: black;
+    transition: 0.4s;
+
+}
+
+.logout-button:hover{
+    color: goldenrod;
+    background-color: black;
+}
